@@ -1,2 +1,2 @@
 # Flight-Search-Engine
-https://edwardwang888.github.io/Flight-Search-Engine/
+View website here: https://edwardwang888.github.io/Flight-Search-Engine/
