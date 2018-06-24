@@ -1,12 +1,24 @@
 var myImage = document.querySelector('img');
+var changeImage = true;
 
 myImage.onmouseenter = function() {
-	myImage.setAttribute ('src','images/plane2.jpg');
+  	mySrc = myImage.getAttribute('src');
+	if (mySrc === 'images/white-plane-sky.jpg' && changeImage === true) { 
+		myImage.setAttribute('src', 'images/plane2.jpg')
+		changeImage = false;
+	}
+	else if (changeImage === false)
+		changeImage = true;
+	else
+		myImage.setAttribute('src', 'images/white-plane-sky.jpg');
 }
 
+/*
 myImage.onmouseleave = function() {
-	myImage.setAttribute('src', 'images/white-plane-sky.jpg');
+    myImage.setAttribute('src', 'images/white-plane-sky.jpg');
+
 }
+*/
 
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h4');
