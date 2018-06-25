@@ -21,7 +21,7 @@ myImage.onmouseleave = function() {
 */
 
 var myButton = document.querySelector('button');
-var myHeading = document.querySelector('h4');
+var myHeading = document.querySelector('#author');
 
 function setUserName(myName) {
 	localStorage.setItem('name', myName);
