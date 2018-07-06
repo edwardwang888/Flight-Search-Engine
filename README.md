@@ -1,6 +1,5 @@
 # Flight-Search-Engine
-Just for fun!<br>
-Preview here: https://edwardwang888.github.io/Flight-Search-Engine/
+Just for fun! Preview here: https://edwardwang888.github.io/Flight-Search-Engine/
 
 Images used:
 1. [white-plane-sky.jpg](https://www.telegraph.co.uk/content/dam/Travel/2018/January/white-plane-sky.jpg?imwidth=1400)
