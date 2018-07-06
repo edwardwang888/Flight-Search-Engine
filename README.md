@@ -1,7 +1,5 @@
 # Flight-Search-Engine
 
-
-Just for fun!
 Preview here: https://edwardwang888.github.io/Flight-Search-Engine/
 
 Images from:
